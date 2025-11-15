@@ -1,0 +1,7 @@
+{
+  "status": true,
+  "title": "example message",
+  "message": "example message",
+  "hasUrl": true,
+  "url": "https://example.com"
+}
